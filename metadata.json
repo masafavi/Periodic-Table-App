@@ -1,0 +1,6 @@
+{
+  "name": "ChemSphere 3D — Interactive Periodic Table & Chemistry Workbench",
+  "description": "3D interactive periodic table, live PubChem molecular visualizer, step-by-step homework calculators, real-time reaction kinetics simulator, and interactive laboratory equipment tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
